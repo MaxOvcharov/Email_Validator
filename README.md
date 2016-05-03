@@ -1,5 +1,6 @@
 #email_validator
  Check e-mail for compliance with the following rules:
+ 
 1. e-mail consists of a name and a domain part, the parts are separated by a "@";
 2. The domain part is not shorter than three characters and no longer than 256, is a
 set of non-empty strings of characters a-z 0-9_- and separated by a point;
