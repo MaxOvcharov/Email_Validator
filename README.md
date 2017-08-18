@@ -1,5 +1,4 @@
-#email_validator
- Check e-mail for compliance with the following rules:
+# Check e-mail for compliance with the following rules:
  
 1. e-mail consists of a name and a domain part, the parts are separated by a "@";
 2. The domain part is not shorter than three characters and no longer than 256, is a
@@ -11,4 +10,4 @@ a-z0-9 "._-;
 6. if the name has double quotes ", they must be paired;
 7. The name may occur in the characters "!,:", but only between the paired double quotes.
  
-Unit test check the correct e-mail
+#### Unit test check the correct e-mail
